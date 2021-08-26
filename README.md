@@ -11,3 +11,5 @@ clone
 python3 -m pip install -U discord.py
 
 python3 -m pip install -U dateutil
+
+python3 -m pip install -U pytz

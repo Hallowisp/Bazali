@@ -88,7 +88,7 @@ async def on_message(message):
 async def on_member_join(member):
     print ("joined server - " + member.display_name)
     #channel = "411940462098907137" #testing channel
-    channel = "496714544421404682" #general-chat channel
+    channel = "709974518780788787" #general-chat channel
     await bot.send_message(discord.Object(channel), "Everyone say hi to " + member.display_name + "!")
     role = discord.utils.get(member.server.roles, name="Circle Member")
     await bot.add_roles(member, role)

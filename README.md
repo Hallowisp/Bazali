@@ -6,8 +6,10 @@ I am learning how to Git!
 install:
 
 
-clone
+clone this repo to the pi
 
 python3 -m pip install -U discord.py
 
 python3 -m pip install -U dateutil
+
+python3 -m pip install -U pytz

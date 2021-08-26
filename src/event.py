@@ -8,9 +8,8 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 import asyncio
 from dateutil.parser import *
-from dateutil import tz
+from dateutil import *
 from datetime import *
-from dateutil import days
 import pytz
 from general import listen
 from general import Cancel

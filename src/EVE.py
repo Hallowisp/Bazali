@@ -154,5 +154,5 @@ async def setBirthday(ctx):
 async def roll(ctx, val = '12'):
     await rollCall(ctx, bot, val)
    
-bot.run("NzExNzkxMTAzMjQ1ODExNzg0.XsIJHw.rzpt6cspmBB5uROnrsZos6-Sf3U")   
+bot.run("NzExNzkxMTAzMjQ1ODExNzg0.XsIJHw.WK9x2qxBCrZulo5ab8AcBHTHPNU")   
 
